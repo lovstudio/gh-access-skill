@@ -1,4 +1,4 @@
-# sgc-gh-access
+# lov-gh-access
 
 ![Version](https://img.shields.io/badge/version-0.1.2-CC785C)
 
@@ -18,7 +18,7 @@ Or clone directly:
 
 ```bash
 git clone https://example.com/skills/gh-access-skill \
-          "${SKILL_SKILLS_INSTALL_DIR:?Set SKILL_SKILLS_INSTALL_DIR}/sgc-gh-access"
+          "${SKILL_SKILLS_INSTALL_DIR:?Set SKILL_SKILLS_INSTALL_DIR}/lov-gh-access"
 ```
 
 ## Prerequisites
