@@ -18,11 +18,11 @@ compatibility: >
   (for org-owned repos, the caller must be a repo admin or org owner).
 metadata:
   author: contributors
-  version: "0.2.0"
+  version: "0.2.1"
   tags: github collaborator access invite private-repo permissions
 ---
 
-# lov-gh-access
+# GitHub 协作管家 · GitHub Collaborator Manager
 
 Grant, revoke, and audit collaborator access on private GitHub repos — by
 username **or** email, with read-only as the safe default.
